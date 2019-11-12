@@ -10,6 +10,8 @@ anaconda
 
 ``` pip install pandas numpy scikit-learn```
 
-h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+## Mathematical Equation
 
-(&theta;<sub>0</sub>,&theta;<sub>1</sub>),(&theta;<sub>1</sub>,&theta;<sub>2</sub>),(&theta;<sub>2</sub>,&theta;<sub>3</sub>)
+Here we can see &theta;<sub>0</sub> is closest &theta;<sub>1</sub>, and also &theta;<sub>1</sub> is closest &theta;<sub>2</sub>
+
+  (&theta;<sub>0</sub>,&theta;<sub>1</sub>),(&theta;<sub>1</sub>,&theta;<sub>2</sub>),(&theta;<sub>2</sub>,&theta;<sub>3</sub>)
